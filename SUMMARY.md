@@ -1,6 +1,4 @@
 # Table of contents
 
-* [Spring Security](README.md)
-
-## Spring Security
+* [Initial page](README.md)
 
