@@ -1,10 +1,10 @@
 ---
 description: >-
-  Java.io 에서 만든 Spring Security Basics 강의
-  영상들(https://youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)을 요약
+  Java.io 에서 만든 Spring Security Basics 강의 영상들을
+  요약(https://youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
 ---
 
-# Spring Security
+# Spring Security 개요
 
 ## Why Spring Security
 
