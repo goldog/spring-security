@@ -34,11 +34,5 @@ description: >-
 * Microservice security \(using tokens, JWT\)
 * Method level security
 
-## 5 Core Concepts in Spring Security
-
-{% page-ref page="5-core-concepts-in-spring-security.md" %}
-
-
-
 
 

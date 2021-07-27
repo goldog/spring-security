@@ -18,21 +18,29 @@
 
 ### Authentication
 
-![](.gitbook/assets/image%20%2829%29.png)
+> Who are you
 
-![](.gitbook/assets/image%20%2831%29.png)
-
-![](.gitbook/assets/image%20%2830%29.png)
-
-![](.gitbook/assets/image%20%2828%29.png)
+사용자의 신원을 파악
 
 ### Authorization
 
+> Can this user do this?
 
+사용자가 해당 명령을 수행 할 수 있는지 판단 
 
 ## Principal
 
+> Currently   loggoned in user
+
+![](.gitbook/assets/image%20%2829%29.png)
+
 ## Granted Authority vs Roles
+
+### Granted Authority
+
+
+
+### Roles
 
 
 
