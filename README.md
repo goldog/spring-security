@@ -18,7 +18,7 @@ description: >-
 
 * Session  fixation
 * Clickjacking
-* Click site request forgery\(CSRF\)
+* Click site request forgery\(CSRF\)-사이트간 요청 위
 
 ### Widely adopted
 
@@ -36,11 +36,7 @@ description: >-
 
 ## 5 Core Concepts in Spring Security
 
-* Authentication
-* Authorization
-* Principal
-* Granted Authority
-* Roles
+{% page-ref page="5-core-concepts-in-spring-security.md" %}
 
 
 
