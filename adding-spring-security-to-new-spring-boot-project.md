@@ -1,4 +1,4 @@
-# Adding Spring Security to new Spring Boot project
+# 새 Spring Boot 프로젝트에 Spring security 추가하기
 
 ## spring-boot-starter-security
 

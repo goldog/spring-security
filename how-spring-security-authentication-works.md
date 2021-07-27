@@ -1,10 +1,20 @@
 # How Spring Security Authentication works
 
+## Servlet Applications <a id="servlet-applications"></a>
+
+> Spring Security integrates with the Servlet Container by using a standard Servlet . This means it works with any application that runs in a Servlet Container. More concretely, you do not need to use Spring in your Servlet-based application to take advantage of Spring Security. `Filter`
+
 ## Filters
 
 ![](.gitbook/assets/image%20%288%29.png)
 
 ![](.gitbook/assets/image%20%2816%29.png)
+
+![](.gitbook/assets/image%20%2843%29.png)
+
+{% embed url="https://atin.tistory.com/590" %}
+
+
 
 ## AuthenticationProvider
 

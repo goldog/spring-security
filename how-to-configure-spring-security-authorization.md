@@ -1,4 +1,4 @@
-# How to configure Spring Security Authorization
+# Spring Security Authorization을 설정하는 방법
 
 ![](.gitbook/assets/image%20%2818%29.png)
 

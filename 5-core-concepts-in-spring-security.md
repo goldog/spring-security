@@ -1,4 +1,4 @@
-# 5 Core Concepts in Spring Security
+# Spring Security 5가지 핵심 개념
 
 ## 5 Core Concepts
 
@@ -42,9 +42,11 @@
 
 ![](.gitbook/assets/image%20%2836%29.png)
 
+![](.gitbook/assets/image%20%2837%29.png)
+
 ### Roles
 
-![](.gitbook/assets/image%20%2841%29.png)
+![](.gitbook/assets/image%20%2842%29.png)
 
 
 

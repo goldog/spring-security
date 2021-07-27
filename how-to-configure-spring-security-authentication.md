@@ -1,4 +1,4 @@
-# How to configure Spring Security Authentication
+# Spring Security Authentication을 설정하는 방법
 
 ## AuthenticationManager
 
